@@ -1,1 +1,2 @@
 this is my reg java file
+ do it manager work
